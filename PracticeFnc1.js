@@ -15,6 +15,7 @@
 // }
 // console.log(lastLetter("Hello Coders"));
 
+
 //3.Write a function called 'square' which takes a single argument which is a number,
 // and returns number * number.
 
